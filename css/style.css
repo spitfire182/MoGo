@@ -1230,7 +1230,7 @@ form input[type=submit] {
 .js--services-1,
 .js--services-2,
 .js--works {
-    opacity: 0.5;
+    opacity: 0;
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
 }

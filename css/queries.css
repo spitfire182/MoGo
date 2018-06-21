@@ -83,7 +83,6 @@
         padding: 10px 0;
     }
     .icon-box {
-        margin: 0 100px 20px 100px;
     }
     .clients {
         margin-left: 50px;
@@ -95,6 +94,10 @@
     .design-phone-image {
         width: 160px;
         top: 50%;
+    }
+    
+    .logo-box img {
+        width: 100%;
     }
 }
 
@@ -138,6 +141,17 @@
         max-width: 100%;
     }
     .section-clients .client-ocupation:after {
-        margin: 10px;
+        margin-top: 10px;
+    }
+    .icon-box {
+        width: 80%;
+        height: 60%;
+        margin-left: 10%;
+    }
+    .blog-date-day {
+        font-size: 300%;
+    }
+    .blog-date-month {
+        font-size: 150%;
     }
 }
